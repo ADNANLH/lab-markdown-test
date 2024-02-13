@@ -16,7 +16,10 @@ Luna Paint is a VS Code extension that lets you edit raster images from within t
 
 ## Exemple d'images
 
-![Solicode](./images/solicode.jpeg)
+
+
+{% ![Solicode](./images/solicode.jpeg) --width:500 px}
+
 
 # Références
 - [Image Resize And Convert Tools](https://marketplace.visualstudio.com/items?itemName=GuusBeltman.ImageTools)
